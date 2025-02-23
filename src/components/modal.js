@@ -14,3 +14,11 @@ export function closeEscModal(e) {
     closeModal(popup);
   }
 }
+export function closeOnOverlay(evt, dom) {
+  if (
+    !evt.target.classList.contains("popup__content") &&
+    evt.target.classList.contains("popup_is-opened")
+  ) {
+    closeModal(dom);
+  }
+}

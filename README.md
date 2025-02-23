@@ -1,2 +1,10 @@
 # Проектная работа Mesto
-https://github.com/olga-vol/mesto-project-ff.git
+https://olga-vol.github.io/mesto-project-ff
+## Описание проекта
+Проект "Mesto" позволяет пользователям загружать свои собственные картинки и добавлятьь персонализацию к профилю.
+### Технологии
+- JS
+- HTML
+- CSS
+## Инструкция по использованию
+Перейдите на сайт https://olga-vol.github.io/mesto-project-ff и посмотрите на загруженные пользователями картинки
